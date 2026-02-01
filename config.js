@@ -25,11 +25,11 @@ const CONFIG = {
             text: "Suis je l'homme le plus mignon qui existe sur cette Terre ?",                                    // First interaction
             yesBtn: "Oui et de très loin !",                                             // Text for "Yes" button
             noBtn: "Non, Mingi existe. ",                                               // Text for "No" button
-            secretAnswer: "Tu es le second plus mignon derrière Rulli (qui est en plus trop fort!)."         // Secret hover message
+            secretAnswer: "Tu es le second plus mignon derrière Rulli (qui est en plus trop fort !)."         // Secret hover message
         },
         second: {
             text: "A quel point tu as envie de venir vivre près de moi ?",                          // For the love meter
-            startText: "Mon Dieu mais qu'est ce que je fais ?!",                                   // Text before the percentage
+            startText: "",                                   // Text before the percentage
             nextBtn: "Direction vers la qestion finale...❤️"                                         // Text for the next button
         },
         third: {
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Let's goooooooooo, tu fais de moi la personne la plus heureseuse de ce monde !!! 🎉💝💖💝💓",
-        message: " Tu as gagné un cadeau, un calin bien chaud 🤗 et plein de bisous 😘 (et peut une surprise...🎁🤭)",
+        message: " Tu as gagné un cadeau, un câlin bien chaud 🤗 et plein de bisous 😘 (et peut-être une surprise…🎁🤭).",
         emojis: "🎁💖🤗💝💋❤️😘💕"  // These will bounce around
     },
 

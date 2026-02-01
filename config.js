@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Maud",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "💖 Veux tu être ma Valentine ? 💖",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Voudras tu être ma Valentine le 14 février 2026? 🌹", // The big question!
+            yesBtn: "Oui bien sûr! ❤️",                                             // Text for "Yes" button
+            noBtn: "Non."                                                 // Text for "No" button
         }
     },
 
